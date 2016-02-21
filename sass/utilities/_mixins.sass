@@ -1,0 +1,15 @@
+//
+// Font Sizing
+// 
+// - This mixin creates classes for
+//   reusable font sizing
+// -------------------------------------
+
+$sizes: (sm: $font-sm, md: $font-md, lg: $font-lg, xl: $font-xl)
+
+=font-sizes
+    @each $size, $value in $sizes
+        .font-#{$size}
+            font-size: $value
+
++font-sizes
