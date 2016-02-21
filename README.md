@@ -8,7 +8,7 @@ Here's my starter kit for working on projects with Bootstrap, Sass and Font Awes
 * [jQuery v2.2.0](http://jquery.com/download/)
 * [Font Awesome v4.5.0](https://fortawesome.github.io/Font-Awesome/)
 
-Out of the box, you get to use these classes:
+Out of the box, you get to use these classes, in addition to the ones provided by Bootstrap and Font Awesome:
 
 ```
 .font-sm
