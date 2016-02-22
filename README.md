@@ -10,7 +10,7 @@ Here's my starter kit for working on projects with Bootstrap, Sass and Font Awes
 
 Out of the box, you get to use these classes, in addition to the ones provided by Bootstrap and Font Awesome:
 
-```
+```css
 .font-sm
 .font-md
 .font-lg
