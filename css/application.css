@@ -11,6 +11,70 @@
 .font-xl {
   font-size: 39.0625px; }
 
+.top-none {
+  margin-top: 0px !important;
+  padding-top: 0px !important; }
+
+.top-xs {
+  margin-top: 15px !important; }
+
+.top-sm {
+  margin-top: 30px !important; }
+
+.top-md {
+  margin-top: 60px !important; }
+
+.top-lg {
+  margin-top: 120px !important; }
+
+.right-none {
+  margin-right: 0px !important;
+  padding-right: 0px !important; }
+
+.right-xs {
+  margin-right: 15px !important; }
+
+.right-sm {
+  margin-right: 30px !important; }
+
+.right-md {
+  margin-right: 60px !important; }
+
+.right-lg {
+  margin-right: 120px !important; }
+
+.bottom-none {
+  margin-bottom: 0px !important;
+  padding-bottom: 0px !important; }
+
+.bottom-xs {
+  margin-bottom: 15px !important; }
+
+.bottom-sm {
+  margin-bottom: 30px !important; }
+
+.bottom-md {
+  margin-bottom: 60px !important; }
+
+.bottom-lg {
+  margin-bottom: 120px !important; }
+
+.left-none {
+  margin-left: 0px !important;
+  padding-left: 0px !important; }
+
+.left-xs {
+  margin-left: 15px !important; }
+
+.left-sm {
+  margin-left: 30px !important; }
+
+.left-md {
+  margin-left: 60px !important; }
+
+.left-lg {
+  margin-left: 120px !important; }
+
 /*!
  * Bootstrap v3.3.6 (http://getbootstrap.com)
  * Copyright 2011-2015 Twitter, Inc.

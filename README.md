@@ -15,6 +15,30 @@ Out of the box, you get to use these classes, in addition to the ones provided b
 .font-md
 .font-lg
 .font-xl
+
+.top-none
+.top-xs
+.top-sm
+.top-md
+.top-lg
+
+.left-none
+.left-xs
+.left-sm
+.left-md
+.left-lg
+
+.right-none
+.right-xs
+.right-sm
+.right-md
+.right-lg
+
+.bottom-none
+.bottom-xs
+.bottom-sm
+.bottom-md
+.bottom-lg
 ```
 
 ### Suggestions:
