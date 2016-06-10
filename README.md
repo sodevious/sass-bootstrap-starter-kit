@@ -10,7 +10,7 @@ Here's my starter kit for working on projects with Bootstrap, Sass and Font Awes
 
 Out of the box, you get to use these classes, in addition to the ones provided by Bootstrap and Font Awesome:
 
-```
+```css
 .font-sm
 .font-md
 .font-lg
@@ -43,8 +43,8 @@ Out of the box, you get to use these classes, in addition to the ones provided b
 
 ### Suggestions:
 
-* If you have the Sass [ruby gem](https://rubygems.org/gems/sass/versions/3.4.21) installed, you can compile sass with `sass src/sass:static/css --watch --style nested --sourcemap=none`
+* If you have the Sass [ruby gem](https://rubygems.org/gems/sass/versions/3.4.21) installed, you can compile sass with `sass sass:css --watch --style nested --sourcemap=none`
 * Comment out any of the files in the Bootstrap manifest that you won't need!
 * Comment out any of the files in the font-awesome manifest that you won't need!
 * Instead of using the `bootstrap.min.js` file, just use the js files that you will actually need.
-* You can quickly open a python server to see this by typing `python -m SimpleHTTPServer 4000`
+* You can quickly open a [python](https://python.org/downloads/) server to see this by typing `python -m SimpleHTTPServer 4000` or `python3 -m http.server 4000`
